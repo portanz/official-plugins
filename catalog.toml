@@ -204,7 +204,7 @@ rev = "4933b1c459459af3a0f9d14898b76ce0564d43b3"
 [[plugin]]
 id = "noctalia/wallpaper_depth_large"
 name = "Wallpaper Depth Large"
-version = "1.0.4"
+version = "1.0.2"
 updated_at = 1788066297
 added_at = 1786549052
 author = "noctalia"
