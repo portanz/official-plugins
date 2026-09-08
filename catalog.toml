@@ -200,6 +200,20 @@ version = "1.0.0"
 updated_at = 1786549052
 rev = "4933b1c459459af3a0f9d14898b76ce0564d43b3"
 
+
+[[plugin]]
+id = "noctalia/wallpaper_depth_large"
+name = "Wallpaper Depth Large"
+version = "1.0.4"
+updated_at = 1788066297
+added_at = 1786549052
+author = "noctalia"
+license = "MIT"
+icon = "layers-subtract"
+description = "Generate depth masks that place desktop widgets behind wallpaper foregrounds."
+plugin_api = 26
+tags = ["wallpaper", "desktop", "ai"]
+
 [[plugin]]
 id = "noctalia/umbriel-companion"
 name = "Umbriel Companion"
