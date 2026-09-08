@@ -221,6 +221,7 @@ def setup(data_dir: Path) -> None:
                 "install",
                 "--disable-pip-version-check",
                 "--no-input",
+                "--no-user",
                 "--only-binary=:all:",
                 *PACKAGES,
             ],

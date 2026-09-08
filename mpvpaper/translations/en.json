@@ -10,8 +10,13 @@
       "label": "Allowed CPUs"
     },
     "auto_pause": {
-      "description": "Pause playback while a fullscreen window covers the wallpaper (mpvpaper --auto-pause)",
-      "label": "Pause When Covered"
+      "description": "Pause playback while a window covers the wallpaper (experimental: may not work on all compositors)",
+      "label": "Pause When Covered",
+      "options": {
+        "full": "Fullscreen",
+        "max": "Maximized",
+        "off": "Off"
+      }
     },
     "cpu_quota": {
       "label": "CPU Quota"
@@ -52,6 +57,8 @@
       "label": "Video Directory"
     }
   },
+  "slideshow": "Slideshow",
+  "slideshow_off": "Off",
   "stop": "Stop",
   "title": "Video Wallpaper"
 }
