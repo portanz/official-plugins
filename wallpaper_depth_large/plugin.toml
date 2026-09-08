@@ -7,7 +7,7 @@ license = "MIT"
 dependencies = ["python3"]
 tags = ["wallpaper", "desktop", "ai"]
 icon = "layers-subtract"
-description = "Generate depth masks that place desktop widgets behind wallpaper foregrounds."
+description = "Generate depth masks that place desktop widgets behind wallpaper foregrounds. Uses the large model for better results."
 
 [[setting]]
 key = "auto_generate"
